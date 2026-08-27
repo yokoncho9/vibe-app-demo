@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543505942710",
+    "project_id": "veritassat-sample",
+    "storage_bucket": "veritassat-sample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543505942710:android:8a6280e068bbd612267e17",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexJbPJBAed4tvYwb5sv7eRJ-uuICkbvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
